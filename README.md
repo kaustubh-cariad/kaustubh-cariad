@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaustubh
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning anything and everything in my current team
 - 💞️ I’m looking to collaborate on iOS development projects
 - 📫 How to reach me kaustubh.deshpande@cariad.technology/ kaaustubh@gmail.com
 
